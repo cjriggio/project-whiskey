@@ -1,1 +1,1 @@
-# project-whiskey
+# Project Whisk(e)y
